@@ -1,0 +1,24 @@
+<?xml version="1.0"?>
+<SOUI name="mainWindow" title="@string/title" bigIcon="ICON_LOGO:32" smallIcon="ICON_LOGO:16" width="910" height="570" margin="5,5,5,5" resizable="1" wndType="appMain" toolWindow="1" translucent="1" trCtx="dlg_main">
+	<root skin="common.shadow" cache="1">
+		<caption pos="0,0,-0,-0" show="1" colorBkgnd="#B0B5DB">
+			<imgbtn name="btn_close" skin="common.comm_close" pos="-50,0" tip="关闭" />
+			<imgbtn name="btn_max" skin="common.comm_max" pos="-100,0" />
+			<imgbtn name="btn_min" skin="common.comm_min" pos="-150,0" />
+			<caption pos="0,0,64,-0" show="1" colorBkgnd="#27225C">
+				<img name="img_logo" skin="default_logo32" pos="|0,0" offset="-0.5,0.5" msgTransparent="0" cursor="hand" />
+				<imgbtn name="btn_message" skin="message" pos="|0,[20" offset="-0.5,0" cursor="hand" />
+				<imgbtn name="btn_contact" skin="contact" pos="|0,[20" offset="-0.5,0" cursor="hand" />
+				<imgbtn name="btn_favorites" skin="favorites" pos="|0,[20" offset="-0.5,0" cursor="hand" />
+				<imgbtn name="btn_menu" skin="menu" pos="|0,-1" offset="-0.5,-1.5" cursor="hand" />
+			</caption>
+			<caption pos="[0,0,320,-0" show="1" colorBkgnd="#949CCD">
+				<edit name="search_edit" pos="5,30,-42,60" colorBkgnd="#7581BD" inset="30,0,30,0" notifyChange="1" cueColor="#2E398B" cueText="搜索" colorText="#1F2468" />
+				<imgbtn name="search_cancel" skin="common.btn_cancel" pos="[-20,{9" cursor="hand" />
+				<img name="search" skin="search" pos="12,{0" cursor="hand" />
+				<imgbtn name="btn_add" skin="add" pos="-38,30" cursor="hand" />
+			</caption>
+		</caption>
+		<shellnotifyicon id="110" menu="SMENU:menu_tray" ico="ICON_LOGO:16" tip="110" />
+	</root>
+</SOUI>

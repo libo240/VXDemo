@@ -1,0 +1,131 @@
+<?xml version="1.0"?>
+<resource>
+	<UIDEF>
+		<file name="XML_INIT" path="uidef\init.xml" />
+	</UIDEF>
+	<LAYOUT>
+		<file name="XML_MAINWND" path="xml\dlg_main.xml" />
+	</LAYOUT>
+	<values>
+		<file name="string" path="values\string.xml" />
+		<file name="color" path="values\color.xml" />
+		<file name="skin" path="values\skin.xml" />
+	</values>
+	<IMG>
+		<file name="traymenu_icons" path="image\traymenu_icons.png" />
+	</IMG>
+	<ICON>
+		<file name="ICON_LOGO" path="image\soui.ico" />
+	</ICON>
+	<translator>
+		<file name="lang_cn" path="translator\lang_cn.xml" />
+		<file name="lang_jp" path="translator\lang_jp.xml" />
+	</translator>
+	<SMENU>
+		<file name="menu_tray" path="xml\menu_tray.xml" />
+	</SMENU>
+	<cur>
+		<file name="cur104" path="cur\cur104.cur" />
+		<file name="cur110" path="cur\cur110.cur" />
+		<file name="cur111" path="cur\cur111.cur" />
+		<file name="cur112" path="cur\cur112.cur" />
+		<file name="cur202" path="cur\cur202.cur" />
+		<file name="Handwriting" path="cur\Handwriting.cur" />
+	</cur>
+	<Translator>
+		<file name="lang_cn" path="Translator\lang_cn.xml" />
+		<file name="lang_jp" path="Translator\lang_jp.xml" />
+	</Translator>
+	<image>
+		<file name="add" path="image\add.png" />
+		<file name="chat.aio_sys_bg" path="image\chat\aio_sys_bg.png" />
+		<file name="chat.empty" path="image\chat\empty.png" />
+		<file name="chat.left_bubble" path="image\chat\left_bubble.png" />
+		<file name="chat.richedit_more" path="image\chat\richedit_more.png" />
+		<file name="chat.richedit_moreloading" path="image\chat\richedit_moreloading.gif" />
+		<file name="chat.richedit_resend" path="image\chat\richedit_resend.png" />
+		<file name="chat.richframe_bkg_no_spliter" path="image\chat\richframe_bkg_no_spliter.png" />
+		<file name="chat.right_bubble" path="image\chat\right_bubble.png" />
+		<file name="chat.right_other_bubble" path="image\chat\right_other_bubble.png" />
+		<file name="chat.text" path="image\chat\text.png" />
+		<file name="common.btn_cancel" path="image\common\btn_cancel.png" />
+		<file name="common.comm_close" path="image\common\comm_close.png" />
+		<file name="common.comm_max" path="image\common\comm_max.png" />
+		<file name="common.comm_min" path="image\common\comm_min.png" />
+		<file name="common.comm_restore" path="image\common\comm_restore.png" />
+		<file name="common.default_bkgnd" path="image\common\default_bkgnd.png" />
+		<file name="common.green_shadow" path="image\common\green_shadow.png" />
+		<file name="common.menu_check" path="image\common\menu_check.png" />
+		<file name="common.sb" path="image\common\sb.png" />
+		<file name="common.shadow" path="image\common\shadow.png" />
+		<file name="contact" path="image\contact.png" />
+		<file name="default_logo32" path="image\default_logo32.png" />
+		<file name="default_logo48" path="image\default_logo48.png" />
+		<file name="dyh" path="image\dyh.png" />
+		<file name="emotion" path="image\emotion.png" />
+		<file name="favorites" path="image\favorites.png" />
+		<file name="file" path="image\file.png" />
+		<file name="filehelper" path="image\filehelper.png" />
+		<file name="group" path="image\group.png" />
+		<file name="gzh" path="image\gzh.png" />
+		<file name="history" path="image\history.png" />
+		<file name="image" path="image\image.png" />
+		<file name="menu.menu_check" path="image\menu\menu_check.png" />
+		<file name="menu.menu_itemskin" path="image\menu\menu_itemskin.png" />
+		<file name="menu.menu_sep" path="image\menu\menu_sep.png" />
+		<file name="menu.menu_skin" path="image\menu\menu_skin.png" />
+		<file name="menu.triangle" path="image\menu\triangle.png" />
+		<file name="menu" path="image\menu.png" />
+		<file name="message" path="image\message.png" />
+		<file name="more" path="image\more.png" />
+		<file name="news" path="image\news.png" />
+		<file name="personal" path="image\personal.png" />
+		<file name="sb" path="image\sb.png" />
+		<file name="search" path="image\search.png" />
+		<file name="send" path="image\send.png" />
+		<file name="setting" path="image\setting.png" />
+		<file name="Snapshot.arrow" path="image\Snapshot\arrow.png" />
+		<file name="Snapshot.c1" path="image\Snapshot\c1.png" />
+		<file name="Snapshot.c10" path="image\Snapshot\c10.png" />
+		<file name="Snapshot.c11" path="image\Snapshot\c11.png" />
+		<file name="Snapshot.c12" path="image\Snapshot\c12.png" />
+		<file name="Snapshot.c13" path="image\Snapshot\c13.png" />
+		<file name="Snapshot.c14" path="image\Snapshot\c14.png" />
+		<file name="Snapshot.c15" path="image\Snapshot\c15.png" />
+		<file name="Snapshot.c16" path="image\Snapshot\c16.png" />
+		<file name="Snapshot.c17" path="image\Snapshot\c17.png" />
+		<file name="Snapshot.c18" path="image\Snapshot\c18.png" />
+		<file name="Snapshot.c19" path="image\Snapshot\c19.png" />
+		<file name="Snapshot.c2" path="image\Snapshot\c2.png" />
+		<file name="Snapshot.c20" path="image\Snapshot\c20.png" />
+		<file name="Snapshot.c3" path="image\Snapshot\c3.png" />
+		<file name="Snapshot.c4" path="image\Snapshot\c4.png" />
+		<file name="Snapshot.c5" path="image\Snapshot\c5.png" />
+		<file name="Snapshot.c6" path="image\Snapshot\c6.png" />
+		<file name="Snapshot.c7" path="image\Snapshot\c7.png" />
+		<file name="Snapshot.c8" path="image\Snapshot\c8.png" />
+		<file name="Snapshot.c9" path="image\Snapshot\c9.png" />
+		<file name="Snapshot.cbx_btn" path="image\Snapshot\cbx_btn.png" />
+		<file name="Snapshot.close" path="image\Snapshot\close.png" />
+		<file name="Snapshot.copy" path="image\Snapshot\copy.png" />
+		<file name="Snapshot.doodle" path="image\Snapshot\doodle.png" />
+		<file name="Snapshot.dotsbig" path="image\Snapshot\dotsbig.png" />
+		<file name="Snapshot.dotsmall" path="image\Snapshot\dotsmall.png" />
+		<file name="Snapshot.dotstd" path="image\Snapshot\dotstd.png" />
+		<file name="Snapshot.ellipse" path="image\Snapshot\ellipse.png" />
+		<file name="Snapshot.mask" path="image\Snapshot\mask.png" />
+		<file name="Snapshot.rect" path="image\Snapshot\rect.png" />
+		<file name="Snapshot.revoke" path="image\Snapshot\revoke.png" />
+		<file name="Snapshot.save" path="image\Snapshot\save.png" />
+		<file name="Snapshot.send" path="image\Snapshot\send.png" />
+		<file name="Snapshot.soui" path="image\Snapshot\soui.ico" />
+		<file name="Snapshot.vlinepx33" path="image\Snapshot\vlinepx33.png" />
+		<file name="Snapshot.word" path="image\Snapshot\word.png" />
+		<file name="Snapshot.word_sign" path="image\Snapshot\word_sign.png" />
+		<file name="snapshot" path="image\snapshot.png" />
+		<file name="snapshot_arrow" path="image\snapshot_arrow.png" />
+		<file name="soui" path="image\soui.ico" />
+		<file name="traymenu_icons" path="image\traymenu_icons.png" />
+		<file name="vscrollbar" path="image\vscrollbar.png" />
+	</image>
+</resource>

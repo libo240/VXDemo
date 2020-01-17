@@ -1,0 +1,11 @@
+﻿  Building SoUI Resource
+  "E:\Work\SOUI2\soui\tools\uiresbuilder.exe"  -i "E:\Study\Program\c++\SOUIStudy\SOUIStudy\uires\uires.idx" -p uires -r .\res\soui_res.rc2 -h .\res\resource.h idtable
+  build .\res\soui_res.rc2 succeed!
+  build .\res\resource.h succeed!
+  stdafx.cpp
+  SShellNotifyIcon.cpp
+  SShellNofityHwnd2.cpp
+  SOUIStudy.cpp
+  MainDlg.cpp
+  正在生成代码...
+  SOUIStudy.vcxproj -> E:\Study\Program\c++\SOUIStudy\Debug64\SOUIStudy.exe

@@ -1,0 +1,15 @@
+﻿  Building SoUI Resource
+  "E:\Work\SOUI2\soui\tools\uiresbuilder.exe"  -i "c:\Users\administrator\source\repos\SOUIStudy\SOUIStudy\uires\uires.idx" -p uires -r .\res\soui_res.rc2 -h .\res\resource.h idtable
+  build .\res\soui_res.rc2 succeed!
+  build .\res\resource.h succeed!
+  stdafx.cpp
+  SShellNotifyIcon.cpp
+c:\users\administrator\source\repos\souistudy\souistudy\trayicon\sshellnotifyicon.cpp(100): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\souistudy\souistudy\trayicon\sshellnotifyicon.cpp(114): warning C4018: “>=”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\souistudy\souistudy\trayicon\sshellnotifyicon.cpp(194): warning C4018: “<”: 有符号/无符号不匹配
+c:\users\administrator\source\repos\souistudy\souistudy\trayicon\sshellnotifyicon.cpp(196): warning C4018: “>=”: 有符号/无符号不匹配
+  SShellNofityHwnd2.cpp
+  SOUIStudy.cpp
+  MainDlg.cpp
+  正在生成代码...
+LINK : fatal error LNK1104: 无法打开文件“utilitiesd.lib”
